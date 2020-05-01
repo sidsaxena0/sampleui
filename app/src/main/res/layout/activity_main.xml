@@ -229,7 +229,7 @@
         android:layout_marginRight="10dp"
         android:id="@+id/messagesMore"
         android:layout_alignParentRight="true"
-        android:layout_below="@+id/avatars"
+        android:layout_below="@+id/recyclerView"
         android:textStyle="bold"
         android:layout_marginLeft="10dp"
         android:textAppearance="@style/TextAppearance.AppCompat.Small"/>
